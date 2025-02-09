@@ -1,0 +1,1 @@
+data_diri = { "firstName" : "Lucky" , "lastName" : "Immanuel" , "age" : 20 , "isMarried" : False} 
